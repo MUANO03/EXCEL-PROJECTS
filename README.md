@@ -1,5 +1,7 @@
 # EXCEL-PROJECTS
 DATA CLEANING  AND EXTRACTION USING EXCEL
+
+
 PHASE 1:RESTRUCTURING DATASET
 **Original dataset**
 https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales?resource=download
